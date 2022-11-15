@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #10599c;
+    background-color: #42a3e4;
 }
 
 .sidebar {
@@ -358,6 +358,7 @@ body {
     color: #fff;
     font-size: 1.1rem;
     margin: 0 auto;
+    
   }
   textarea {
     outline: none;
@@ -370,6 +371,7 @@ body {
     padding-left: 0.2rem;
     border: none;
     border-bottom: 2px solid rgb(223, 213, 213);
+  
   }
   
   .send-button {
