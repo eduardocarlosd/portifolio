@@ -300,15 +300,107 @@ body {
   background-color: transparent;
   color: black;
   border: 2px solid transparent;
-  margin: 40px;
+  margin: 110px;
   padding: 110px;
   text-align: justify;
   position: absolute;
   top: 320px;
 }
+.texto2{
+  background-color: transparent;
+  color: black;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  text-align: justify;
+  position: absolute;
+  top: -120px;
+}
+.foto{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 1px;
+  top: -140px;
+}
 
+.foto2{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 380px;
+  top: -140px;
+}
+.foto3{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 760px;
+  top: -140px;
+}
 
+.foto4{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 1px;
+  top: 100px;
+}
 
+.foto5{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 380px;
+  top: 100px;
+}
+.foto6{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 760px;
+  top: 100px;
+}
+.foto01{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 1px;
+  top: 10px;
+}
+
+.foto02{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 380px;
+  top: 10px;
+}
+.foto03{
+  background-color: transparent;
+  border: 2px solid transparent;
+  margin: 77px;
+  padding: 110px;
+  position: absolute;
+  left: 760px;
+  top: 10px;
+}
 
 
 
